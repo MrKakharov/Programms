@@ -2,7 +2,7 @@
 
 <details>
   <summary>🔹 Wingetdan foydalanish</summary>
-   `winget` yordamida dasturlarni qidirish va o‘rnatish bo‘yicha asosiy buyruqlar:
+  # `winget` yordamida dasturlarni qidirish va o‘rnatish bo‘yicha asosiy buyruqlar:
 
 ---
 
